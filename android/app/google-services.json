@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592471218456",
+    "project_id": "binus-8c35b",
+    "storage_bucket": "binus-8c35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592471218456:android:10674b5fbb3f8f425e666d",
+        "android_client_info": {
+          "package_name": "com.tp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592471218456-011a615dqkc7g0haunskqmneakfqbeoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tp4",
+            "certificate_hash": "6f7c6a15a54f264fe25b69c1235e593de8a7762b"
+          }
+        },
+        {
+          "client_id": "592471218456-24fa0p8bafe6gkud869hml226mp0gpfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmsxoIyPbpZU0a1iQLfrxMz-2tuJaP80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592471218456-24fa0p8bafe6gkud869hml226mp0gpfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
